@@ -1,0 +1,28 @@
+{
+  "platform": "threads",
+  "keywords": [
+    { "category": "品牌提及", "keyword": "$wish" },
+    { "category": "品牌提及", "keyword": "swish記帳" },
+    { "category": "競品比較文", "keyword": "記帳app推薦" },
+    { "category": "競品比較文", "keyword": "求推薦記帳app" },
+    { "category": "競品比較文", "keyword": "記帳" },
+    { "category": "競品比較文", "keyword": "記帳app" },
+    { "category": "競品比較文", "keyword": "app推薦" },
+    { "category": "競品比較文", "keyword": "實用app" },
+    { "category": "競品比較文", "keyword": "好用app" },
+    { "category": "競品比較文", "keyword": "麻布記帳" },
+    { "category": "競品比較文", "keyword": "CWMoney" },
+    { "category": "競品比較文", "keyword": "AndroMoney" },
+    { "category": "競品比較文", "keyword": "Toshl" },
+    { "category": "競品比較文", "keyword": "Spendee" },
+    { "category": "競品比較文", "keyword": "Monefy" },
+    { "category": "產業觀察文", "keyword": "vibe coding" },
+    { "category": "產業觀察文", "keyword": "獨立開發者" },
+    { "category": "產業觀察文", "keyword": "獨立開發" },
+    { "category": "產業觀察文", "keyword": "個人開發app" },
+    { "category": "痛點話題文", "keyword": "記帳習慣" },
+    { "category": "痛點話題文", "keyword": "多幣別記帳" },
+    { "category": "痛點話題文", "keyword": "情侶分帳" },
+    { "category": "痛點話題文", "keyword": "理財新手" }
+  ]
+}
